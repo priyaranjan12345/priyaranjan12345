@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Travello**
 
 - ⚡ Fun fact **Something new something different...**
+- 📫 How to reach me: **priyaranjanmantri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
