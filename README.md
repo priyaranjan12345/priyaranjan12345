@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Priyaranjan Mantri</h1>
 
-- 🔭 I’m currently working as **Application Developer at Lucidplus**
+- 🔭 I’m currently working as **Flutter Application Developer**
 - ⚡ Fun fact **Something new something different...**
 - 📫 How to reach me: **priyaranjanmantri@gmail.com**
 
