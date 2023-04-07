@@ -106,15 +106,15 @@ Hi👋, I'm Priyaranjan Mantri!
 </br>
 
 
-<!--
-### 👨🏽‍💻 Workspace
+
+<!-- ### 👨🏽‍💻 Workspace
 <p>
     <a href="https://github.com/priyaranjan12345/"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
     <a href="https://github.com/priyaranjan12345/"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
--->
+</p> -->
 
-<!-- 
+
+
 ## <a href="https://github.com/priyaranjan12345/"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
@@ -127,8 +127,8 @@ Hi👋, I'm Priyaranjan Mantri!
 	</a>
 	<br/>
 </p>
-<br/> -->
-<!--
+<br/>
+<!-- 
 <summary><b>⚡ Activity graph</b></summary>
 <br/>
 <p align="center">
@@ -137,8 +137,8 @@ Hi👋, I'm Priyaranjan Mantri!
 	</a>
 </p>
 <br/>
--->
-<!-- <summary><b>⚡ Top Languages</b></summary>
+ -->
+<summary><b>⚡ Top Languages</b></summary>
 <br/>
 
 <p align="center">
@@ -151,6 +151,8 @@ Hi👋, I'm Priyaranjan Mantri!
 </p>
 <br/>
 
+
+<!-- 
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
@@ -173,10 +175,10 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
 
   </td>
   </tr>
-</table>
+</table> -->
 
 ------
 
-[priyaranjan12345](https://github.com/priyaranjan12345/) -->
+[priyaranjan12345](https://github.com/priyaranjan12345/)
 
 Last Edited on: 07/0402323
