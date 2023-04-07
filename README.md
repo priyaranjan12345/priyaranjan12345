@@ -114,7 +114,7 @@ Hi👋, I'm Priyaranjan Mantri!
 </p>
 -->
 
-
+<!-- 
 ## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
@@ -127,7 +127,7 @@ Hi👋, I'm Priyaranjan Mantri!
 	</a>
 	<br/>
 </p>
-<br/>
+<br/> -->
 <!--
 <summary><b>⚡ Activity graph</b></summary>
 <br/>
