@@ -138,7 +138,7 @@ Hi👋, I'm Priyaranjan Mantri!
 </p>
 <br/>
 -->
-<summary><b>⚡ Top Languages</b></summary>
+<!-- <summary><b>⚡ Top Languages</b></summary>
 <br/>
 
 <p align="center">
@@ -177,6 +177,6 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
 
 ------
 
-[Bouaskaoun](https://github.com/Bouaskaoun)
+[Bouaskaoun](https://github.com/Bouaskaoun) -->
 
 Last Edited on: 07/0402323
