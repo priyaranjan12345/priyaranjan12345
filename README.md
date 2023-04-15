@@ -68,7 +68,7 @@ Hi👋, I'm Priyaranjan Mantri!
 
 <p>
     <a href="https://github.com/priyaranjan12345/"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%23F7DF1E.svg?logo=kotlin&logoColor=orange"></a>
-    <a href="https://github.com/priyaranjan12345/"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?logo=Java&logoColor=orange"></a>
+    <a href="https://github.com/priyaranjan12345/"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23FF6F00.svg?logo=Java&logoColor=orange"></a>
     <a href="https://github.com/priyaranjan12345/"><img alt="Dart" src="https://img.shields.io/badge/Dart%20-%23327FC7.svg?logo=dart&logoColor=white"></a>
     <a href="https://github.com/priyaranjan12345/"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
@@ -76,7 +76,7 @@ Hi👋, I'm Priyaranjan Mantri!
 
 <p>
     <a href="https://github.com/priyaranjan12345/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI%20-%23013243.svg?logo=FastAPI&logoColor=white"></a>
-    <a href="https://github.com/priyaranjan12345/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="https://github.com/priyaranjan12345/"><img alt="Android" src="https://img.shields.io/badge/Android%20-%23FF6F00.svg?logo=Android&logoColor=white"></a>
     <a href="https://github.com/priyaranjan12345/"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
     <a href="https://github.com/priyaranjan12345/"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
     <a href="https://github.com/priyaranjan12345/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%23150458.svg?logo=Flutter&logoColor=white"></a>
@@ -95,13 +95,13 @@ Hi👋, I'm Priyaranjan Mantri!
 ### 💻 Software and Tools
 
 <p>
-    <a href="https://github.com/priyaranjan12345/"><img alt="Colab" src="https://img.shields.io/badge/MySQL-%2334A853.svg?logo=MySQL&logoColor=white"></a>
     <a href="https://github.com/priyaranjan12345/"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/priyaranjan12345/"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="https://github.com/priyaranjan12345/"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio%20-%2334A853.svg?logo=Android%20Studio&logoColor=white"></a>
     <a href="https://github.com/priyaranjan12345/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/priyaranjan12345/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="https://github.com/priyaranjan12345/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="https://github.com/priyaranjan12345/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://github.com/priyaranjan12345/"><img alt="intellij idea" src="https://img.shields.io/badge/intellij%20idea-444444.svg?logo=intellij-idea&logoColor=black"></a>
 </p>
 </br>
 
