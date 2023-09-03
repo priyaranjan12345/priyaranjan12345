@@ -77,7 +77,6 @@ Hi👋, I'm Priyaranjan Mantri!
 <p>
     <a href="https://github.com/priyaranjan12345/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI%20-%23013243.svg?logo=FastAPI&logoColor=white"></a>
     <a href="https://github.com/priyaranjan12345/"><img alt="Android" src="https://img.shields.io/badge/Android%20-%23FF6F00.svg?logo=Android&logoColor=white"></a>
-    <a href="https://github.com/priyaranjan12345/"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
     <a href="https://github.com/priyaranjan12345/"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
     <a href="https://github.com/priyaranjan12345/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%23150458.svg?logo=Flutter&logoColor=white"></a>
 </p>
