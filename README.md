@@ -51,7 +51,7 @@ Hi👋, I'm Priyaranjan Mantri!
 🌱 Learning about Spring Boot and FastAPI
 🌟 Main languages: Java, Kotlin, Dart and Python
 🚩 Interested in Full Stack Application development
-🤔 I’m currently open for: <b>A new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>A new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1aju4DpBO4k72F4QxfazVqEWejPzTQWRM/view?usp=drive_link" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
