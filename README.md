@@ -27,7 +27,7 @@ Hi👋, I'm Priyaranjan Mantri!
 	</a>
 </p>
 
-- 🔭 I’m currently working as **Flutter Application Developer**
+- 🔭 I’m currently working as **Application Developer**
 - ⚡ Fun fact **Something new something different...**
 - 📫 How to reach me: **priyaranjanmantri@gmail.com**
 
@@ -76,7 +76,7 @@ Hi👋, I'm Priyaranjan Mantri!
 
 <p>
     <a href="https://github.com/priyaranjan12345/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI%20-%23013243.svg?logo=FastAPI&logoColor=white"></a>
-    <a href="https://github.com/priyaranjan12345/"><img alt="Android" src="https://img.shields.io/badge/Android%20-%23FF6F00.svg?logo=Android&logoColor=white"></a>
+    <a href="https://github.com/priyaranjan12345/"><img alt="React.JS" src="https://img.shields.io/badge/React.JS%20-%23327FC7.svg?logo=React&logoColor=white"></a>
     <a href="https://github.com/priyaranjan12345/"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
     <a href="https://github.com/priyaranjan12345/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%23150458.svg?logo=Flutter&logoColor=white"></a>
 </p>
